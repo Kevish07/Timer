@@ -84,7 +84,7 @@ nav a:hover {
     margin: 0 auto;
     background-color: gray;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 5px;
     overflow: hidden;
 }
 
@@ -341,6 +341,7 @@ h2 {
     min-width: 150px;
     /* background-color: #dad7d7; */
     color: black;
+    box-shadow: 2px 2px 20px black;
     padding: 30px;
     border-radius: 5px;
     transition: 0.3s ease-in-out;
